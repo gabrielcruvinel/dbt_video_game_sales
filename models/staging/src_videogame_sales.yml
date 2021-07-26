@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: videogame_sales
+    database: videogame_sales
+    tables:
+      - name: total_sales
